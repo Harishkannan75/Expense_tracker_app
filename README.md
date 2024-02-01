@@ -1,6 +1,6 @@
 # expense_tracker_app
 
-lutter project.
+flutter project.
 
 ## Getting Started
 
